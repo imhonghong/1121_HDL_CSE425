@@ -1,0 +1,2 @@
+1. adder_structure:
+include subproject 'FA', which stands for 'full adder'
